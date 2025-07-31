@@ -6,8 +6,8 @@
 let productos = [ // Lista de productos con nombre, precio y cantidad
     {nombre: "Teclado", precio: 2000, cantidad: 10},
     {nombre: "Mouse", precio: 2500, cantidad: 5},
-    {nombre: "Laptop", precio: 3000000, cantidad: 1},
-    {nombre: "Monitor", precio: 1500000, cantidad: 2},
+    {nombre: "Laptop", precio: 3000000, cantidad: 12},
+    {nombre: "Monitor", precio: 1500000, cantidad: 4},
     {nombre: "Parlantes", precio: 500000, cantidad: 3}
 ];
 
